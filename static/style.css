@@ -1,0 +1,31 @@
+body{
+    background: url("https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/corinthians-libertadores-2012-e1720108028700.jpg?w=849&h=477&crop=0")center/cover;
+    height: 100vh;
+    display: flex;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    background: rgba(0,0,0,0.30);
+    width: 300px ;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: gold;
+    font-size: medium;
+    align-items: center;
+    text-align: center;
+}
+
+input, button{
+    width: 100%;
+    margin-top: 10px;
+    border: none;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
